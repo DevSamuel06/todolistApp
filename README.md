@@ -27,7 +27,7 @@ git clone https://github.com/seu-usuario/seu-repo.git
 cd seu-repo
 npm install
 npx expo start
-Abra no Expo Go escaneando o QR Code exibido no terminal.
+Abra no Expo Go escaneando o QR Code exibido no terminal. ``` 
 
 ---
 
