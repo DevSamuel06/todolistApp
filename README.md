@@ -6,7 +6,6 @@ Aplicativo desenvolvido com **React Native + Expo** para demonstrar conceitos b�
 - CRUD de tarefas (criar, visualizar, editar, deletar)
 - Armazenamento local com AsyncStorage
 - Navegação entre telas
-- Estilização com tema azul marinho
 
 ---
 
@@ -23,8 +22,8 @@ Aplicativo desenvolvido com **React Native + Expo** para demonstrar conceitos b�
 ## 🚀 Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
-cd seu-repo
+git clone https://github.com/DevSamuel06/todolistApp.git
+cd tarefas-app
 npm install
 npx expo start
 ```
